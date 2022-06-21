@@ -1,0 +1,35 @@
+body{
+    background-color: #ebebd6;
+    padding-right: 100px;
+    padding-left: 50px;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    height: 200.3px;
+    width: 200px;
+    float:left;
+    padding:5px;
+}
+a{
+    color: #a00;
+    text-decoration: none;
+}
+p{
+    font-family: 18px Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+}
+.main{
+    display: block;
+    padding-top:20 px;
+    height:200px;
+    width:600px;
+}
+h2{
+    display: block;
+    font-family:fantasy
+}
+c{
+    color:red;
+}

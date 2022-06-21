@@ -1,0 +1,29 @@
+body{
+   background-color: rgb(141, 141, 223);
+   padding-left: 50px;
+   padding-right:50px;
+   padding-top: 30px;
+}
+h1{
+    text-align:center;
+    color:white;
+    background-color:navy;
+}
+.parent{
+  display:flex;
+  justify-content: space-between;
+
+  padding:10px;
+}
+.image1,.image2,.image3{
+     width:360px;
+     border-radius :20px;
+     padding: 20px;
+     color:blue;
+     font-family:18 px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background-color:white;
+}
+.para{
+    color:white;
+    font-family:50 px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
